@@ -4,10 +4,10 @@
   
 <h2> Kulanılan uygulama: Microsoft Whiteboard </h2>
 
-<h2> Fotoğraf </h2>
+<h2><a href="https://github.com/Ahmedsall1/DataStructure/blob/main/C%23%20(Data%20Structure).png"> Fotoğraf </a></h2>
 
-<p>https://github.com/Ahmedsall1/DataStructure/blob/main/C%23%20(Data%20Structure).png</p>
 
-<h2> pdf </h2>
 
-<p>https://github.com/Ahmedsall1/DataStructure/blob/main/C%23%20(Data%20Structure).pdf</p>
+<h2><a href="https://github.com/Ahmedsall1/DataStructure/blob/main/C%23%20(Data%20Structure).pdf"> pdf</a></h2>
+
+<p></p>
